@@ -1,13 +1,13 @@
-# 🚀 Formação em C# — Rocketseat
+# 🚀 Formação em C# - Rocketseat
 
 ![Rocketseat](https://img.shields.io/badge/Rocketseat-purple?style=for-the-badge&logo=rocket&logoColor=white&labelColor=8234E9&color=000000)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-Repositório dedicado a toda a jornada de aprendizado na **Formação C# da Rocketseat** — reunindo códigos das aulas, atividades práticas, desafios e projetos desenvolvidos ao longo do curso.
+Repositório dedicado a toda a jornada de aprendizado na **Formação C# da Rocketseat** - reunindo códigos das aulas, atividades práticas, desafios e projetos desenvolvidos ao longo do curso.
 
 ---
 
-## 📚 Conteúdo do Repositório
+## 📚 Conteúdo do repositório
 
 | Tipo | Descrição |
 |---|---|
@@ -18,7 +18,7 @@ Repositório dedicado a toda a jornada de aprendizado na **Formação C# da Rock
 
 ---
 
-## 📝 Material Teórico
+## 📝 Material teórico
 
 Todas as anotações, resumos e conteúdos teóricos produzidos durante o curso estão organizados e disponíveis no Google Drive:
 

@@ -1,18 +1,31 @@
-# 🚀 Formção em C# - Rocketseat
-![Rocketseat](https://img.shields.io/badge/Rocketseat-Lógica_de_Programação-8234E9?style=for-the-badge&labelColor=8234E9&color=000000)
+# 🚀 Formação em C# — Rocketseat
 
-Repositório contendo todos os códigos das aulas, atividades, desafios e projetos desenvolvidos no curso de C# da Rocketseat.
+![Rocketseat](https://img.shields.io/badge/Rocketseat-purple?style=for-the-badge&logo=rocket&logoColor=white&labelColor=8234E9&color=000000)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-## 📚 Conteúdo
-- ✅ Códigos das aulas
-- ✅ Atividades práticas
-- ✅ Desafios propostos
-- ✅ Projetos do curso
+Repositório dedicado a toda a jornada de aprendizado na **Formação C# da Rocketseat** — reunindo códigos das aulas, atividades práticas, desafios e projetos desenvolvidos ao longo do curso.
+
+---
+
+## 📚 Conteúdo do Repositório
+
+| Tipo | Descrição |
+|---|---|
+| ✅ Aulas | Códigos desenvolvidos durante as aulas |
+| ✅ Atividades | Exercícios práticos para fixação do conteúdo |
+| ✅ Desafios | Desafios propostos pela plataforma |
+| ✅ Projetos | Projetos completos desenvolvidos no curso |
+
+---
 
 ## 📝 Material Teórico
-Todo o conteúdo teórico, anotações e resumos escritos durante o curso estão disponíveis no Google Drive:
 
-📂 [**Acessar material teórico no Drive**](https://drive.google.com/drive/folders/1lBb1SCk-EQFK6QY4LF3id_A8jsmV_G8N?usp=sharing)
+Todas as anotações, resumos e conteúdos teóricos produzidos durante o curso estão organizados e disponíveis no Google Drive:
+
+📂 [**Acessar Material Teórico no Drive**](https://drive.google.com/drive/folders/1lBb1SCk-EQFK6QY4LF3id_A8jsmV_G8N?usp=sharing)
+
+---
 
 ## 🎯 Objetivo
-Material completo para acompanhar a evolução do aprendizado dos fundamentos essenciais da linguagem de programação C#.
+
+Consolidar e documentar o aprendizado dos **fundamentos essenciais do C#**, servindo como portfólio de evolução e material de referência para estudos futuros.
